@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/React-Project-2/static/css/main.fe73fcae.css",
+    "main.js": "/React-Project-2/static/js/main.2484a939.js",
+    "static/media/meal.mp4": "/React-Project-2/static/media/meal.a1b6c6dc67dfa2f99343.mp4",
+    "static/media/bg.png": "/React-Project-2/static/media/bg.3d421b1b5682e1b67deb.png",
+    "static/media/welcome.png": "/React-Project-2/static/media/welcome.d724eb984456d9c97470.png",
+    "static/media/findus.png": "/React-Project-2/static/media/findus.585c393ccd3671513743.png",
+    "static/media/laurels.png": "/React-Project-2/static/media/laurels.e760828692795d4aafd7.png",
+    "static/media/menu.png": "/React-Project-2/static/media/menu.a8287c67809afebcc280.png",
+    "static/media/gallery04.png": "/React-Project-2/static/media/gallery04.c36a695f8a3b9d311106.png",
+    "static/media/gallery03.png": "/React-Project-2/static/media/gallery03.b2d50180e8590d4dd330.png",
+    "static/media/gallery02.png": "/React-Project-2/static/media/gallery02.27663bd9016b72ccd328.png",
+    "static/media/gallery01.png": "/React-Project-2/static/media/gallery01.f2cbffe3049d6f91e0df.png",
+    "static/media/sign01.png": "/React-Project-2/static/media/sign01.6be7bb45c555f68df9c7.png",
+    "static/media/1.png": "/React-Project-2/static/media/1.bafba96e6e41e0e4bcbc.png",
+    "static/media/knife.png": "/React-Project-2/static/media/knife.1121c0a5afb62acb31cb.png",
+    "static/media/overlaybg.png": "/React-Project-2/static/media/overlaybg.165362eea72d1614ae28.png",
+    "static/media/om.png": "/React-Project-2/static/media/om.54298a1cf3a767b51e05.png",
+    "static/media/G.png": "/React-Project-2/static/media/G.b571eb82e589ec305ec9.png",
+    "static/media/logo.png": "/React-Project-2/static/media/logo.0286194c03de0a90dac9.png",
+    "static/media/award02.png": "/React-Project-2/static/media/award02.8bbdd51499739653b003.png",
+    "static/media/grace.png": "/React-Project-2/static/media/grace.b49ccd945c9c1c6dc571.png",
+    "static/media/award05.png": "/React-Project-2/static/media/award05.48a7f5206184009dcb29.png",
+    "static/media/award01.png": "/React-Project-2/static/media/award01.361a4bc44b59b55abeda.png",
+    "static/media/award03.png": "/React-Project-2/static/media/award03.3f7ee934c17dccbd5fc6.png",
+    "index.html": "/React-Project-2/index.html",
+    "static/media/spoon.svg": "/React-Project-2/static/media/spoon.d079f43fbcf509908d3865293080795a.svg",
+    "main.fe73fcae.css.map": "/React-Project-2/static/css/main.fe73fcae.css.map",
+    "main.2484a939.js.map": "/React-Project-2/static/js/main.2484a939.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe73fcae.css",
+    "static/js/main.2484a939.js"
+  ]
+}
