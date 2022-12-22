@@ -15,7 +15,7 @@
 }
 
 .app__navbar-logo img {
-  width: 150px;
+  width: 70px;
 }
 
 .app__navbar-links {
@@ -104,7 +104,7 @@
 
 @media screen and (min-width: 2000px) {
   .app__navbar-logo img {
-    width: 210px;
+    width: 90px;
   }
 }
 
@@ -112,7 +112,9 @@
   .app__navbar-links {
     display: none;
   }
-
+  .app__navbar-logo img {
+    width: 70px;
+  }
   .app__navbar-smallscreen {
     display: flex;
   }
@@ -128,6 +130,6 @@
   }
 
   .app__navbar-logo img {
-    width: 110px;
+    width: 70px;
   }
 }
